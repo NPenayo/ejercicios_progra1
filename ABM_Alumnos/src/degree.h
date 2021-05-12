@@ -1,0 +1,1 @@
+/home/npenayo/Facultad/programacion_1/ejercicios/common_libs/degree.h

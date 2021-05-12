@@ -1,1 +1,1 @@
-/home/npenayo/Facultad/programacion_1/ejercicios/libraries/arrays.h
+/home/npenayo/Facultad/programacion_1/ejercicios/common_libs/arrays.h

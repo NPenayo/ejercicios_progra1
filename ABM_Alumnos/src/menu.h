@@ -1,1 +1,1 @@
-/home/npenayo/Facultad/programacion_1/ejercicios/libraries/menu.h
+/home/npenayo/Facultad/programacion_1/ejercicios/common_libs/menu.h
